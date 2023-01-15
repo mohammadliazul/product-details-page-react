@@ -12,9 +12,9 @@ const productData = [{
     nike3,
     nike4,
   ],
-  "description": "UI/UX designing, html css tutorials",
-  "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
-  "price": 23,
+  "description": "Technologies Used: HTML, CSS, ReactJS",
+  "content": "Welcome to Liazul's web application. I am a MERN stack developer. I am proficient in HTML, CSS, tailwind CSS, Bootstrap, MaterialUI, Sass, JavaScript, Redux, ReactJS etc. and constantly learning new technologies.",
+  "price": 25,
   "colors":["red","black","crimson","teal"],
   "count": 1
 }];
